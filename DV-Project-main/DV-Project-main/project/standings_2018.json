@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "140",
+        "season": "2018"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-4.api-sports.io/flags/es.svg",
+                "season": 2018,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 529,
+                                "name": "Barcelona",
+                                "logo": "https://media-4.api-sports.io/football/teams/529.png"
+                            },
+                            "points": 87,
+                            "goalsDiff": 54,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DWLWW",
+                            "status": null,
+                            "description": "Promotion - Champions League (Group Stage)",
+                            "all": {
+                                "played": 38,
+                                "win": 26,
+                                "draw": 9,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 90,
+                                    "against": 36
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 15,
+                                "draw": 3,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 530,
+                                "name": "Atletico Madrid",
+                                "logo": "https://media-4.api-sports.io/football/teams/530.png"
+                            },
+                            "points": 76,
+                            "goalsDiff": 26,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DDLWW",
+                            "status": null,
+                            "description": "Promotion - Champions League (Group Stage)",
+                            "all": {
+                                "played": 38,
+                                "win": 22,
+                                "draw": 10,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 29
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 15,
+                                "draw": 3,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 10
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 541,
+                                "name": "Real Madrid",
+                                "logo": "https://media-4.api-sports.io/football/teams/541.png"
+                            },
+                            "points": 68,
+                            "goalsDiff": 17,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "LLWLD",
+                            "status": null,
+                            "description": "Promotion - Champions League (Group Stage)",
+                            "all": {
+                                "played": 38,
+                                "win": 21,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 532,
+                                "name": "Valencia",
+                                "logo": "https://media-4.api-sports.io/football/teams/532.png"
+                            },
+                            "points": 61,
+                            "goalsDiff": 16,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "WWWLL",
+                            "status": null,
+                            "description": "Promotion - Champions League (Group Stage)",
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 16,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 10,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 546,
+                                "name": "Getafe",
+                                "logo": "https://media-4.api-sports.io/football/teams/546.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 13,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DLWLD",
+                            "status": null,
+                            "description": "Promotion - Europa League (Group Stage)",
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 14,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 11,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 536,
+                                "name": "Sevilla",
+                                "logo": "https://media-4.api-sports.io/football/teams/536.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 15,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "WDLLW",
+                            "status": null,
+                            "description": "Promotion - Europa League (Qualification)",
+                            "all": {
+                                "played": 38,
+                                "win": 17,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 540,
+                                "name": "Espanyol",
+                                "logo": "https://media-4.api-sports.io/football/teams/540.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": -2,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "WWWDD",
+                            "status": null,
+                            "description": "Promotion - Europa League (Qualification)",
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 8,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 531,
+                                "name": "Athletic Club",
+                                "logo": "https://media-4.api-sports.io/football/teams/531.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": -4,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "LWLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 14,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 548,
+                                "name": "Real Sociedad",
+                                "logo": "https://media-4.api-sports.io/football/teams/548.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": -1,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "LWWWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 11,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 543,
+                                "name": "Real Betis",
+                                "logo": "https://media-4.api-sports.io/football/teams/543.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": -8,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "WWLDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 8,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 542,
+                                "name": "Alaves",
+                                "logo": "https://media-4.api-sports.io/football/teams/542.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": -11,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "WLLDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 11,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 545,
+                                "name": "Eibar",
+                                "logo": "https://media-4.api-sports.io/football/teams/545.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -4,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DLWWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 14,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 8,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 537,
+                                "name": "Leganes",
+                                "logo": "https://media-4.api-sports.io/football/teams/537.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -6,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "LLWDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 12,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 533,
+                                "name": "Villarreal",
+                                "logo": "https://media-4.api-sports.io/football/teams/533.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -3,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DWLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 14,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 539,
+                                "name": "Levante",
+                                "logo": "https://media-4.api-sports.io/football/teams/539.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -7,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DWWLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 59,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 34
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 720,
+                                "name": "Valladolid",
+                                "logo": "https://media-4.api-sports.io/football/teams/720.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -19,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "LWWLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 538,
+                                "name": "Celta Vigo",
+                                "logo": "https://media-4.api-sports.io/football/teams/538.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -9,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DLWDD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 53,
+                                    "against": 62
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 547,
+                                "name": "Girona",
+                                "logo": "https://media-4.api-sports.io/football/teams/547.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": -16,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "LLLWL",
+                            "status": null,
+                            "description": "Relegation - LaLiga2",
+                            "all": {
+                                "played": 38,
+                                "win": 9,
+                                "draw": 10,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 726,
+                                "name": "Huesca",
+                                "logo": "https://media-4.api-sports.io/football/teams/726.png"
+                            },
+                            "points": 33,
+                            "goalsDiff": -22,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "WLLDW",
+                            "status": null,
+                            "description": "Relegation - LaLiga2",
+                            "all": {
+                                "played": 38,
+                                "win": 7,
+                                "draw": 12,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 728,
+                                "name": "Rayo Vallecano",
+                                "logo": "https://media-4.api-sports.io/football/teams/728.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": -29,
+                            "group": "Primera Divisi\u00f3n",
+                            "form": "DLLWL",
+                            "status": null,
+                            "description": "Relegation - LaLiga2",
+                            "all": {
+                                "played": 38,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 70
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 38
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
