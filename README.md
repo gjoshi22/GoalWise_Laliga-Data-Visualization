@@ -1,4 +1,7 @@
-# GoalWise: An Interactive Insight into Team Triumphs & Trials
+# LaLiga Insights: Interactive Dashboard
+
+## Live Site: https://laligaviz.onrender.com/
+
 ## Goal
 Our project aims to create a website/dashboard containing the live statistics of all the teams in
 the premier division of Spanish Soccer (Known as La Liga) that provides a comparative assessment
